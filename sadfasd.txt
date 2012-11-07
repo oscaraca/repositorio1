@@ -1,2 +1,4 @@
-sdfasdf
+linea1 diferente
+linea 2 modificada
 nuevo contenido modificado
+linea 4 modificada
